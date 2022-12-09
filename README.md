@@ -2,8 +2,6 @@
 
 React MERN Full Stack Social Media App
 
-# Technologies:
-
 # For The Frontend:
 
 React framework
