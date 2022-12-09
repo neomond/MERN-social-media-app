@@ -4,7 +4,7 @@ React MERN Full Stack Social Media App
 
 # For The Frontend:
 
-React framework
+React framework </br>
 React Router for navigation
 Formik + yup for form validation
 Redux Toolkit for state management
